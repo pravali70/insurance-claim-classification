@@ -1,7 +1,7 @@
 # 🧾 Insurance Claim Classification - Mini Project
 👋 Hello folks! Welcome to this exciting mini-project on Insurance Claim Classification!
 
-🎯 Objective
+## 🎯 Objective
 The primary goal of this project is to build and compare the performance of multiple machine learning models to predict whether a customer will file a vehicle insurance claim. This classification task helps insurance companies in:
 
 Assessing customer risk profiles
@@ -24,7 +24,7 @@ Subscription Length
 
 Insurance Claim Status (Target Variable)
 
-The models evaluated include:
+## The models evaluated include:
 
 Logistic Regression
 
@@ -38,7 +38,7 @@ AdaBoost
 
 XGBoost
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 To assess model performance and fairness, we evaluate each classifier based on:
 
 Accuracy
@@ -53,7 +53,7 @@ Confusion Matrix
 
 These metrics help us understand each model's strengths and trade-offs, especially in correctly identifying potential claimants.
 
-🧰 Tools & Libraries
+## 🧰 Tools & Libraries
 This project is implemented in Python using the following libraries:
 
 pandas – Data manipulation and analysis
@@ -66,7 +66,7 @@ xgboost – Gradient boosting for classification
 
 numpy – Numerical operations
 
-✅ Outcome
+## ✅ Outcome
 By comparing model metrics, we identify the most effective classifier for predicting insurance claims. The best-performing model can:
 
 Help insurance firms reduce fraudulent claims
