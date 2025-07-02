@@ -1,4 +1,4 @@
-🧾 Insurance Claim Classification - Mini Project
+# 🧾 Insurance Claim Classification - Mini Project
 👋 Hello folks! Welcome to this exciting mini-project on Insurance Claim Classification!
 
 🎯 Objective
